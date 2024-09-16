@@ -1,6 +1,6 @@
 Instruções:
 
-Baixar aplicativo: [https://github.com/heuderdev/download/blob/main/dist/donwload-v-1.1.exe] (DOWNLOAD YOUTUBE - VIDEO - MP3 - LEGENDAS)
+Baixar aplicativo: [DOWNLOAD YOUTUBE - VIDEO - MP3 - LEGENDAS] (https://github.com/heuderdev/download/blob/main/dist/donwload-v-1.1.exe)
 
 Baixar os arquivos do ffmpeg:  [https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/)
 
