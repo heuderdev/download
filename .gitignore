@@ -1,2 +1,4 @@
 build
 index.*
+*.py
+__*
